@@ -1,0 +1,120 @@
+html5					Languages
+css3
+css3
+less
+sass
+js
+js
+coffescript
+php
+python
+ruby
+java
+visual basic
+.net
+asp.net
+c#
+c++
+lua
+delphi
+go
+dart
+swift
+scala
+groovy
+kotlin
+bootstrap				Frameworks & Tools & Platforms
+foundation
+semantic ui
+purecss
+compass
+jquery
+jquerymobile
+mootools
+zepto
+ember
+meteor
+backbone
+angular
+react
+express
+ionic
+codeigniter
+laravel
+symphony
+yii
+zend
+rails
+qt
+django
+pyramid
+cordova
+gulpjs
+grunt
+bower
+yeoman
+npm
+nodejs
+git
+vim						Text Editors
+sublime text
+atom
+brackets
+visual studio code
+visual studio			IDEs
+visual studio
+android studio
+xamarin
+eclipse
+intellij idea
+phpstorm
+webstorm
+pycharm
+rubymine
+xcode
+sqlserver				DBMSs
+mysql
+postgresql
+sqlite
+hadoop
+cassandra
+mongodb
+couchdb
+redis
+android					OSs
+ubuntu
+windows98
+windowsxp
+windows10
+microsoft				Companies
+microsoft
+apple
+apple
+apple
+google
+google
+oracle
+cisco
+chrome					Apps
+firefox
+opera
+safari
+ie6
+ie8
+edge
+cmder
+easyphp
+xampp
+wamp
+mamp
+navicat
+photoshop
+illustrator
+indesign
+dreamweaver
+github					Websites
+stackoverflow
+raspberry pi			Honorable Mentions!
+unicode
+wordpress
+followme				Credits
